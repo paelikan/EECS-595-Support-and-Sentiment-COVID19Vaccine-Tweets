@@ -3,3 +3,5 @@ This repository provides the code to reproduce the results of the EECS 595 NLP p
 
 To access the analyzed data please reach out to the project members.
 
+# Data preprocessing
+To filter the COVID-19 tweets for geotaggs and addressing vaccines run the datacleaning.py script in the data directory.  
