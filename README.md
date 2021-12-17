@@ -3,5 +3,9 @@ This repository provides the code to reproduce the results of the EECS 595 NLP p
 
 To access the analyzed data please reach out to the project members.
 
-# Data preprocessing
+## Data preprocessing
 To filter the COVID-19 tweets for geotaggs and addressing vaccines execute the data_cleaning.py script from the data directory.  
+To filter for CT-BERT go to https://github.com/digitalepidemiologylab/covid-twitter-bert
+
+## Running Models
+The CT-BERT fine tuning, execution, and analysis is all in CT-BERT/TwitterPull.ipynb
