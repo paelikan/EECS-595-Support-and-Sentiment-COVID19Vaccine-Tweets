@@ -1,2 +1,3 @@
 # EECS-595-Support-and-Sentiment-COVID19Vaccine-Tweets
-Support and Sentiment in COVID-19 Vaccine Tweets Across America
+This repository provides the code to reproduce the results of the EECS 595 NLP project "Support and Sentiment in COVID-19 Vaccine Tweets Across America"
+
