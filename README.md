@@ -4,7 +4,8 @@ This repository provides the code to reproduce the results of the EECS 595 NLP p
 To access the analyzed data please reach out to the project members.
 
 ## Data preprocessing
-To filter the COVID-19 tweets for geotaggs and addressing vaccines execute the data_cleaning.py script from the data directory.  
+To filter the COVID-19 tweets for geotaggs and addressing vaccines execute the data_cleaning.py script from the data directory.
+Unhydrated twitter data ids can be found in the data folder, we cannot release the hydrated tweets due to twitters privacy policy
 To filter for CT-BERT go to https://github.com/digitalepidemiologylab/covid-twitter-bert
 To filter for VADER go to https://github.com/cjhutto/vaderSentiment.git
 
